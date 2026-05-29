@@ -1,0 +1,24 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+table{
+    border: solid black;
+}
+
+th{
+    border: solid black;
+}
+td{
+    border: solid black;
+}
+hr{border: solid black;
+}
+body{
+    background-color: #7e6897;
+
+}
+#LL {
+    margin-right: 115px;
+} 
